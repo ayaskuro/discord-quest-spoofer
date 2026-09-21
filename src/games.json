@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Genshin Impact",
+    "exe": "GenshinImpact.exe"
+  },
+  {
+    "id": "2",
+    "name": "Honkai: Star Rail",
+    "exe": "StarRail.exe"
+  },
+  {
+    "id": "3",
+    "name": "Zenless Zone Zero",
+    "exe": "ZenlessZoneZero.exe"
+  },
+  {
+    "id": "4",
+    "name": "Wuthering Waves",
+    "exe": "Client-Win64-Shipping.exe"
+  },
+  {
+    "id": "5",
+    "name": "Valorant",
+    "exe": "VALORANT-Win64-Shipping.exe"
+  },
+  {
+    "id": "6",
+    "name": "Apex Legends",
+    "exe": "r5apex.exe"
+  },
+  {
+    "id": "7",
+    "name": "Fortnite",
+    "exe": "FortniteClient-Win64-Shipping.exe"
+  }
+]
