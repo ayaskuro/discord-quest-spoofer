@@ -1,6 +1,15 @@
-# Discord Orbs Quest Spoofer
+# ⚡ ORBIFY — Discord Orbs Quest Spoofer
 
-A lightweight CLI utility designed to spoof running game processes for Discord quests without downloading or running heavy game clients.
+A lightweight, zero-overhead CLI utility to spoof running game processes for Discord quests and orbs farming without downloading heavy game clients.
+
+```text
+ ██████╗  ██████╗  ██████╗  ██╗ ███████╗ ██╗   ██╗
+██╔═══██╗ ██╔══██╗ ██╔══██╗ ██║ ██╔════╝ ╚██╗ ██╔╝
+██║   ██║ ██████╔╝ ██████╔╝ ██║ █████╗    ╚████╔╝ 
+██║   ██║ ██╔══██╗ ██╔══██╗ ██║ ██╔══╝     ╚██╔╝  
+╚██████╔╝ ██║  ██║ ██████╔╝ ██║ ██║        ██║   
+ ╚═════╝  ╚═╝  ╚═╝ ╚═════╝  ╚═╝ ╚═╝        ╚═╝   
+       :: DISCORD ORBS QUEST SPOOFER ::
 
 ## Features
 
@@ -22,10 +31,10 @@ A lightweight CLI utility designed to spoof running game processes for Discord q
     └── main.py
     
     
-    How It Works
+    ##How It Works
 Discord scans running OS processes by executable name (e.g., GenshinImpact.exe). This tool copies a lightweight paused dummy binary under the target executable name into an isolated runtime directory (~/.discord_spoof_games/) and starts it as a child process.
 
-Getting Started
+##Getting Started
 1. Build the dummy binary
 On Linux:
 
